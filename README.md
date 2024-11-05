@@ -1,12 +1,14 @@
 Library Management System
 A simple Java console application that simulates a library management system. This program allows users to add books, display available books, issue books, and return books. It serves as a beginner-friendly project for learning Java and understanding basic object-oriented programming concepts.
 
-Features
+Features;
 Add Book: Adds a new book with a title, author, and ISBN to the library.
 Display Books: Shows a list of all books in the library with their details (title, author, ISBN, and issue status).
 Issue Book: Allows a book to be issued to a user by its ISBN if it is available.
 Return Book: Allows a previously issued book to be returned by its ISBN.
-Getting Started
+
+Getting Started:
+
 Prerequisites
 Java Development Kit (JDK) installed on your computer.
 A text editor or IDE (e.g., VS Code, IntelliJ IDEA, Eclipse) to write and run the code.
@@ -24,7 +26,9 @@ Run the program:
 bash
 Copy code
 java LibraryManagementSystem
-Usage
+
+Usage:
+
 When you run the program, you will see a menu with several options:
 
 Add Book: Enter the title, author, and ISBN to add a new book to the library.
@@ -48,14 +52,17 @@ Enter book title: Java Programming
 Enter book author: John Doe
 Enter book ISBN: 1234567890
 Book added successfully.
-Project Structure
+
+Project Structure:
+
 Book: Represents a book in the library with properties such as title, author, ISBN, and issue status.
 Library: Manages the collection of books, with functions to add, issue, return, and display books.
 LibraryManagementSystem: The main class with a menu-driven interface to interact with the library system.
 Contributing
 Contributions are welcome! If you have suggestions for improvements or find bugs, please open an issue or submit a pull request.
 
-License
+License:
+
 This project is licensed under the MIT License.
 
 
