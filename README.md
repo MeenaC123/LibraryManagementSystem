@@ -60,7 +60,9 @@ Project Structure:
 Book: Represents a book in the library with properties such as title, author, ISBN, and issue status.
 Library: Manages the collection of books, with functions to add, issue, return, and display books.
 LibraryManagementSystem: The main class with a menu-driven interface to interact with the library system.
-Contributing
+
+Contributing: 
+
 Contributions are welcome! If you have suggestions for improvements or find bugs, please open an issue or submit a pull request.
 
 License:
